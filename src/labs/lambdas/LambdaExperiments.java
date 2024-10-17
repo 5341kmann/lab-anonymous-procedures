@@ -12,8 +12,8 @@ import java.util.Comparator;
  * A variety of experiments for working with lambdas. 
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
- * @author Your Name Here
+ * @author Natalie Nardone
+ * @author Grant Sackmann
  */
 public class LambdaExperiments {
 
